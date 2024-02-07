@@ -35,9 +35,19 @@
         margin-bottom:50px ;
         margin-top: 50px;
         padding: 50px;
+        margin-left: 50px;
+        margin-right: 50px;
 }
 
-.
+.wy
+{
+    font-style: oblique;
+    font-size: x-large;
+    top: 60%;
+    left: 50%;
+    margin-top: 100%;
+    margin-bottom: 80%;
+}
 
 
   
